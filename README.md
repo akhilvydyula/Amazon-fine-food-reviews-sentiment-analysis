@@ -1,9 +1,10 @@
 # Amazon_fine_food_review
 # Introduction
-# The Amazon Fine Food Reviews dataset consists of 568,454 food reviews. This dataset consists of a single CSV file, Reviews.csv
+
+The Amazon Fine Food Reviews dataset consists of 568,454 food reviews. This dataset consists of a single CSV file, Reviews.csv
 
 Data Set
-Click here to get the dataset.
+Kaggle 
 
 Review.csv - 251MB
 Dataset statistics
@@ -27,7 +28,7 @@ Data Fields Explanation
     Summary - brief summary of the review
     Text - text of the review
 # EDA Objective
-# Analysing the data & plot the required graphs to show that these conclusions are true:
+Analysing the data & plot the required graphs to show that these conclusions are true:
 
 a. Positive reviews are very common.
 b. Positive reviews are shorter.
